@@ -28,10 +28,8 @@
 ### 🧑‍💻 Coding Platform
 
 - 🧠 **Skillrack**: [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=406248&key=71d4aa0d1f0a58d6c0bb25f984bf3a6e6beb3225) – Solved 1000+ problems
-- 📈 ### 📈 LeetCode Stats
-
-[![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api?username=PrawinRamesh&show_icons=true&title_color=ffffff&icon_color=00b8d4&text_color=ffffff&bg_color=0d1117)](https://leetcode.com/u/PrawinRamesh/)
-
+- 📈 Practicing algorithms on [LeetCode](https://leetcode.com/u/PrawinRamesh/)
+- 
 ---
 
 ### 🛠️ Tech Stack

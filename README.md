@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prawin R</h1>
-<h3 align="center">Aspiring Data Scientist | AI & Data Science Student at RMK College</h3>
-
-<p align="center">
-  <a href="mailto:prawinramesh123@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/prawin-r" target="_blank">🔗 LinkedIn</a> •
-  Chennai, India
-</p>
+<h3 align="center">Aspiring Data Scientist | AI & Data Science Student at RMK College of Engineering and Technology</h3>
 
 ---
 

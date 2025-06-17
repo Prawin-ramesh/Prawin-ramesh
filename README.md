@@ -25,6 +25,13 @@
 
 ---
 
+### 🧑‍💻 Coding Platform
+
+- 🧠 **Skillrack**: [View My Profile](https://www.skillrack.com/faces/resume.xhtml?id=406248&key=71d4aa0d1f0a58d6c0bb25f984bf3a6e6beb3225) – Solved 1000+ problems
+- 📈 Practicing algorithms on [LeetCode](https://leetcode.com/u/PrawinRamesh/)
+
+---
+
 ### 🛠️ Tech Stack
 
 - **Languages:** Java, Python
